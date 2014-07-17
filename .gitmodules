@@ -308,3 +308,6 @@
 [submodule "modules/qbsync"]
 	path = modules/qbsync
 	url = https://github.com/stoysnet/qbsync
+[submodule "modules/customercontent"]
+	path = modules/customercontent
+	url = git@github.com:stoysnet/customercontent.git
