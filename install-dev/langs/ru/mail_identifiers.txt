@@ -3,8 +3,7 @@
 Ваши персональные данные для входа в {shop_name}:
 
 Электронная почта: {email}
-Пароль: {passwd}
 
 {shop_name} - {shop_url}
 
-{shop_url} под управлением PrestaShop™
+{shop_url} под управлением Specialty Toys Network™
